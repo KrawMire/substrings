@@ -1,7 +1,7 @@
 ﻿using Substrings.Helpers;
 using Substrings.Interfaces;
 
-IInputHelper inputHelper = new ConsoleInputHelper();
+IInputHelper inputHelper = new FileInputHelper("./Data/data.txt");
 
 string[] strArray = inputHelper.GetStringsArray();
 List<string> sameStrings = new List<string>();

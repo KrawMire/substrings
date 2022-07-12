@@ -1,4 +1,33 @@
 ﻿<Properties StartupConfiguration="{06A1F0A5-185C-4CC5-82D4-8FEBA4A8AB1A}|Default">
-  <MonoDevelop.Ide.ItemProperties.Substrings FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Substrings/Program.cs">
+    <Files>
+      <File FileName="Substrings/Program.cs" Line="25" Column="18" />
+      <File FileName="Substrings/Helpers/StringsHelper.cs" Line="18" Column="25" />
+      <File FileName="Substrings/Helpers/InputHelper.cs" Line="7" Column="48" />
+      <File FileName="Substrings/Interfaces/IInputHelper.cs" Line="7" Column="63" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Substrings" expanded="True">
+            <Node name="Substrings" expanded="True">
+              <Node name="Helpers" expanded="True" />
+              <Node name="Interfaces" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Substrings PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
 </Properties>
